@@ -4,9 +4,9 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
 #message body
-message = "beta"
+message = "your message here"
 #title name of the person whom the message has to be sent
-title_name = "Rahul Pat Jio"
+title_name = "title name here"
 #no of times the message has to be sent
 message_times = 1
 options = Options()
