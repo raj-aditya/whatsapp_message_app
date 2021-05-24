@@ -1,0 +1,6 @@
+2021/05/24-18:37:44.839 1bcf Reusing MANIFEST /home/aditya/PycharmProjects/pythonProjectMessages/chrome-data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/24-18:37:44.839 1bcf Recovering log #382
+2021/05/24-18:37:44.880 1bcf Reusing old log /home/aditya/PycharmProjects/pythonProjectMessages/chrome-data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000382.log 
+2021/05/24-18:37:49.230 1bd0 Level-0 table #407: started
+2021/05/24-18:37:49.297 1bd0 Level-0 table #407: 1131872 bytes OK
+2021/05/24-18:37:49.327 1bd0 Delete type=0 #382

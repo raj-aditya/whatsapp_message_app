@@ -1,0 +1,36 @@
+2021/05/24-18:38:53.248 1dc8 Reusing MANIFEST /home/aditya/PycharmProjects/pythonProjectMessages/chrome-data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/24-18:38:53.248 1dc8 Recovering log #406
+2021/05/24-18:38:53.249 1dc8 Reusing old log /home/aditya/PycharmProjects/pythonProjectMessages/chrome-data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000406.log 
+2021/05/24-18:38:53.699 1db1 Compacting 1@0 + 2@1 files
+2021/05/24-18:38:53.792 1db1 Generated table #409@0: 47056 keys, 2311384 bytes
+2021/05/24-18:38:53.868 1db1 Generated table #410@0: 21441 keys, 2327828 bytes
+2021/05/24-18:38:53.909 1db1 Generated table #411@0: 9472 keys, 819845 bytes
+2021/05/24-18:38:53.909 1db1 Compacted 1@0 + 2@1 files => 5459057 bytes
+2021/05/24-18:38:53.951 1db1 compacted to: files[ 0 3 8 0 0 0 0 ]
+2021/05/24-18:38:53.951 1db1 Delete type=2 #389
+2021/05/24-18:38:53.951 1db1 Delete type=2 #388
+2021/05/24-18:38:53.951 1db1 Delete type=2 #407
+2021/05/24-18:38:56.184 1daf Compacting 1@1 + 4@2 files
+2021/05/24-18:38:56.273 1daf Generated table #412@1: 21332 keys, 2327007 bytes
+2021/05/24-18:38:56.356 1daf Generated table #413@1: 31619 keys, 2300518 bytes
+2021/05/24-18:38:56.439 1daf Generated table #414@1: 95639 keys, 2248151 bytes
+2021/05/24-18:38:56.473 1daf Generated table #415@1: 14617 keys, 594993 bytes
+2021/05/24-18:38:56.473 1daf Compacted 1@1 + 4@2 files => 7470669 bytes
+2021/05/24-18:38:56.497 1daf compacted to: files[ 0 2 8 0 0 0 0 ]
+2021/05/24-18:38:56.497 1daf Delete type=2 #400
+2021/05/24-18:38:56.498 1daf Delete type=2 #411
+2021/05/24-18:38:56.498 1daf Delete type=2 #403
+2021/05/24-18:38:56.498 1daf Delete type=2 #308
+2021/05/24-18:38:56.498 1daf Delete type=2 #404
+2021/05/24-18:38:56.885 1daf Compacting 1@1 + 4@2 files
+2021/05/24-18:38:56.975 1daf Generated table #416@1: 32057 keys, 2283989 bytes
+2021/05/24-18:38:57.068 1daf Generated table #417@1: 20301 keys, 2330293 bytes
+2021/05/24-18:38:57.159 1daf Generated table #418@1: 20699 keys, 2329093 bytes
+2021/05/24-18:38:57.209 1daf Generated table #419@1: 6564 keys, 618945 bytes
+2021/05/24-18:38:57.209 1daf Compacted 1@1 + 4@2 files => 7562320 bytes
+2021/05/24-18:38:57.260 1daf compacted to: files[ 0 1 8 0 0 0 0 ]
+2021/05/24-18:38:57.260 1daf Delete type=2 #398
+2021/05/24-18:38:57.260 1daf Delete type=2 #397
+2021/05/24-18:38:57.260 1daf Delete type=2 #409
+2021/05/24-18:38:57.260 1daf Delete type=2 #396
+2021/05/24-18:38:57.260 1daf Delete type=2 #393
